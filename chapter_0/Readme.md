@@ -3,3 +3,5 @@ Provide a link in your Readme.md that links to the documentation for the followi
 *  Array
 *  Hash
 *  Chronic (Rubygem)
+
+'Double quotes'
