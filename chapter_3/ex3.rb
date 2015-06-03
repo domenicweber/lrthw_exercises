@@ -19,16 +19,16 @@ puts 3 + 2 < 5 - 7
 puts "What is 3 + 2? #{3 + 2}"
 # The first part isn't part of a math problem while after the # is
 puts "What is 5 - 7? #{5 - 7}"
-#use 2x quotes because of contraction
+# use 2x quotes because of contraction
 puts "Oh, that's why it's false"
 
 puts 'How about some more.'
-#The first part isn't part of a math problem while after the # is
+# The first part isn't part of a math problem while after the # is
 puts "Is it greater? #{5 > -2}"
-#The first part isn't part of a math problem while after the # is
+# The first part isn't part of a math problem while after the # is
 puts "Is it greater or equal? #{5 >= -2}"
-#The first part isn't part of a math problem while after the # is
+# The first part isn't part of a math problem while after the # is
 puts "Is it less or equal? #{5 <= -2}"
 # my tests
-puts (2 * 5)
+puts " #{2 * 5}"
 puts 75 % 4
