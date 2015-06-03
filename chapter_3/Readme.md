@@ -21,11 +21,12 @@ ex3.rb created, I think this is what you meant
 
 >4)  Add your research to Readme.md
 
-Done 
+See Below 
 
 >5)  Copy ex3.rb to ex3_floating.rb for this one.
 
-Done
+Done: I do enjoy haveing exactly 97.00 roosters, I would not want a quarter of a rooster.
+And now I have 6.75 eggs, that seems messy.
 
 
 ####My Notes
@@ -40,3 +41,8 @@ I mean you do specify to use the remainder b/c it's just odd, most people just p
 I understand the irb is a funciton that allows you do to math 
 directly in iTerm2 and doesn't require "puts" you just type in 
 math and get answers...like a normal calculator
+
+##### On Floats
+The math "seems" wrong b/c most programming languages use integers without floats.
+As we learned in the Learn to Program PDF you can't check 4.37 emails or have 6.75 eggs, so the program rounds up
+
