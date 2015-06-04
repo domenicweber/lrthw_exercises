@@ -4,14 +4,11 @@
 
 my_ex5.rb contains the {my_X} variables
 
-2) Add a couple of format sequences, don't forget to add comments to 
+> 2) Add a couple of format sequences, don't forget to add comments to 
 explain what you're doing
 
-
-
-Try to write some variables that convert the inches and pounds to 
-centimeters and kilograms. Do not just type in the measurements. 
-Work out the math in Ruby.
+I went through a lot of different formulas before settling on something very simple...
+I also noticed that inside {} you can use () but not the other way around.
 
 
 #### My Notes
