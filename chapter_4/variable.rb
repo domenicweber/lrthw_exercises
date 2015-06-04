@@ -10,6 +10,12 @@ s = p + e
 b = s + p
 t = b + s
 
+def fib( n )
+  return n if n <= 1
+  fib(n - 1) + fib( n-2 )
+end
+
+puts fib( 25 )
 puts " #{x}"
 puts " #{y}"
 puts " #{z}"
