@@ -4,6 +4,10 @@
 
 <a href=http://ruby-doc.org/core-2.2.0/Array.html> Link 1a </a>
 
+#### Update 
+
+http://ruby-doc.org/core-2.2.1/Array.html
+
 http://ruby-doc.org/core-2.2.0/Array.html
 
 <a href=http://www.tutorialspoint.com/ruby/ruby_arrays.htm> Link 1b </a>
@@ -14,12 +18,16 @@ names = Array.new(20)
 puts names.size # This returns 20
 puts names.length # This also returns 20
 
-OK, this 2nd link actally made sense, it obviously wasnt' written by a programmer
+OK, this 2nd link actually made sense, it obviously wasnt' written by a programmer
 b/c they speak normal English.
 
 
 
 *  Hash
+
+#### Update 
+
+http://ruby-doc.org/core-2.1.5/Hash.html
 
 <a href=http://ruby-doc.org/core-2.1.5/Hash.html> Link 2a </a>
 
