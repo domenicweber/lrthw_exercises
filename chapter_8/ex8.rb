@@ -12,8 +12,16 @@ puts formatter % {
     fourth: 'So I said goodnight.'
   }
 
-puts formatter %
-first: 'I had this thing.',
-    second: 'That you could type up right.',
-    third: "But it didn't sing.",
+
+foo = {
+  first: 'I had this thing.',
+  second: 'That you could type up right.',
+  third: "But it didn't sing.",
+}
+puts formatter % foo
+
+puts formatter % {
+
   }
+
+puts 'more junk'
