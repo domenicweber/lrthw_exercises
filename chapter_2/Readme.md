@@ -2,6 +2,8 @@
 
  Sometimes the questions are so simple I look too deep
  I'm assuming you mean to use `#` at the beginning of a line and it will comment out the line
+ 
+ Wendy explained that you can highlight a line hold cmd + / and it will comment out the line.
 
 > Find out if you were right about what the # character does and make sure you know what it's 
 called (octothorpe or pound character).
