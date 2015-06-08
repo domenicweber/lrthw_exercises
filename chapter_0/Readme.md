@@ -1,3 +1,16 @@
+##### Other Classes / Methods
+
+Classes
+
+Thread http://ruby-doc.org/core-2.2.0/Thread.html
+Fatal http://ruby-doc.org/core-2.2.0/fatal.html
+
+Methods
+
+ENV    http://ruby-doc.org/core-2.2.0/ENV.html#method-c-5B-5D
+
+DIR    http://ruby-doc.org/core-2.2.0/Dir.html#method-c-5B-5D
+
 > Provide a link in your Readme.md that links to the documentation for the following classes:
 
 *  Array
@@ -27,11 +40,7 @@ b/c they speak normal English.
 
 #### Update 
 
-http://ruby-doc.org/core-2.1.5/Hash.html
-
-<a href=http://ruby-doc.org/core-2.1.5/Hash.html> Link 2a </a>
-
-http://ruby-doc.org/core-2.1.5/Hash.html
+http://ruby-doc.org/core-2.2.0/Hash.html
 
 <a href=http://www.tutorialspoint.com/ruby/ruby_hashes.htm> Link 2b </a>
 
@@ -39,9 +48,9 @@ http://www.tutorialspoint.com/ruby/ruby_hashes.htm
 
 *  Chronic (Rubygem)
 
-<a href=https://rubygems.org/gems/chronic/versions/0.10.2> Link 3a </a>
+<a href=http://www.rubydoc.info/gems/chronic/0.10.2> Link 3a </a>
 
-https://rubygems.org/gems/chronic/versions/0.10.2
+http://www.rubydoc.info/gems/chronic/0.10.2
 
 <a href=https://www.ruby-toolbox.com/projects/chronic> Link 3b </a>
 
