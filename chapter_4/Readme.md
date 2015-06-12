@@ -45,10 +45,16 @@ Yes, to make it a floating point you need a decimal, but I still don't know why 
 
 See ex4.rb
 
+
+####UPDATE
 > Make sure you know what = is called (equals) and that it's making names 
 for things.
 
 = means everyone sucks at programming the same...at least in my class?
+
+The way I've now programmed my self to read is is = means "X equals Y" 
+and == means "X is equal to Y" knowing the first is a statement of fact 
+and the latter is a conditional statement meaning it may or may not be the case.
 
 
 >Try running ruby from the Terminal as a calculator like you did before 
